@@ -18,7 +18,7 @@
 <div align="center">
     <p>Try Google Colab Notebook</p>
     <p>
-        <a href="https://colab.research.google.com/github/dhyeythumar/ML-Agents-with-Google-Colab/blob/master/ML-Agents with Colab.ipynb">
+        <a href="https://colab.research.google.com/drive/12fuayKu7OjNN_4CycAXttdsUSIEkxesy#scrollTo=bW2MH47s5Gya">
           <img alt="colab link" src="https://colab.research.google.com/assets/colab-badge.svg" />
         </a>
     </p>
